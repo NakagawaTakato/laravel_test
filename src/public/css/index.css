@@ -1,0 +1,188 @@
+.header__inner {
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px 15px;
+    max-width: 1230px;
+    border-bottom: 1px solid #8B7969;
+    margin: 0px auto;
+}
+
+.header__logo {
+    color: #8B7969;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.form__input--text__seven__select {
+    color: #8B7969;
+}
+
+.contact-form__content {
+    color: #8B7969;
+    margin: 0 auto;
+    padding: 30px 15px;
+    max-width: 1230px;
+}
+
+.form__input--textarea__class,
+.form__input--text__half_one_during,
+.form__input--text_during,
+.form__input--text__triple,
+.form__input--text__triple_during {
+    color: #8B7969;
+}
+
+.contact-form__heading {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.form {
+    margin: 0 auto;
+    width: 70%;
+    text-align: center;
+}
+
+.form__group__first {
+    position: relative;
+    bottom: 15px;
+}
+
+.form__group-title__first {
+    position: absolute;
+    left: 0px;
+}
+
+.form__group_secound {
+    display: flex;
+    justify-content: space-between;
+    margin: 35px 0px 15px 0px;
+}
+
+.form__input--radio--men {
+    margin-right: 70px;
+}
+
+.form__input--radio--woman {
+    margin-right: 70px;
+}
+
+.form__input--radio--others {
+    margin-right: 270px;
+}
+
+.form__group {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.form__label--required {
+    color: #ff0000;
+}
+
+.form__error {
+    height: 20px;
+    color: #ff0000;
+    text-align: left;
+}
+
+.form__input--text__half_one {
+    position: absolute;
+    left: 240px;
+}
+
+.form__input--text__half_two {
+    position: absolute;
+    right: 5px;
+}
+
+.form__input--text__half_one input {
+    padding: 10px;
+    width: 250px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+
+    appearance: none;
+}
+
+.form__input--text__half_two input {
+    padding: 10px;
+    width: 250px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+
+    appearance: none;
+}
+
+.form__input--text__triple input {
+    padding: 10px;
+    width: 170px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+
+    appearance: none;
+}
+
+.form__input--text__seven {
+    margin-right: 370px;
+}
+
+.form__input--text__seven__select {
+    padding: 10px;
+    width: 230px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+
+    appearance: none;
+}
+
+.form__input--text__seven__place {
+    margin-right: 300px;
+}
+
+.form__input--text__triple__one {
+    margin: 0px 10px 0px 10px;
+}
+
+.form__input--text__triple__two {
+    margin: 0px 10px 0px 10px;
+}
+
+.form__input--text__triple__three {
+    margin-right: 10px;
+}
+
+.form__input--text input,
+.form__input--textarea textarea {
+    padding: 10px;
+    width: 600px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+
+    appearance: none;
+}
+
+.form__input--text input {
+    height: 40px;
+}
+
+.form__input--textarea textarea {
+    height: 120px;
+}
+
+.form__button {
+    margin-top: 30px;
+}
+
+.form__button-submit {
+    padding: 10px;
+    width: 12%;
+    height: 40px;
+    border: none;
+    border-radius: 3px;
+    background: #8B7969;
+    color: #fff;
+    cursor: pointer;
+}
